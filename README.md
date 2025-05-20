@@ -1,4 +1,4 @@
-# <div style="display: flex; gap: 1rem;"><img src="20250514_2112_3D Angled Zeppelin_remix_01jv86rkywfxsvv5m1za9tk8pk.png" width="40"/> Blimp</div>
+# <div style="display: flex; gap: 1rem;"><img src="ICON.png" width="40"/> Blimp</div>
 
 > **The all-in-one Discord bot solution that floats above the rest.**
 
@@ -52,7 +52,6 @@ Why clutter your server with multiple bots when Blimp can handle everything? Our
 Our powerful web dashboard lets you configure all aspects of Blimp-Bot without memorizing commands. Real-time statistics give you insights into your server's activity patterns. Enjoy the very very early sneak peak below.
 
 <img src="https://img.jptr.cloud/raw/CIlMpp.png" alt="Sneak Peak" width="600"/>
-
 
 ---
 
